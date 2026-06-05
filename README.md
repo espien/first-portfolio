@@ -27,7 +27,8 @@ This repository contains the source code for a portfolio website. It combines a 
 ## Live build
 
 ~Check out the live build of this portfolio website at [URL](https://uteeaami-pf.vercel.app/).~
-This website is no longer hosted
+
+This website is no longer hosted...
 
 
 ## Setup
@@ -35,8 +36,8 @@ This website is no longer hosted
 1. **Clone the Repository**
 
      ```shell
-     git clone https://github.com/Uteeaami/uteeaami-pf.git
-     git clone https://github.com/Uteeaami/pf-strapi
+     git clone https://github.com/Uteeaami/first-portfolio.git
+     git clone https://github.com/Uteeaami/first-portfolio-strapi.git
      ```
 
 2. **Install Dependencies**
