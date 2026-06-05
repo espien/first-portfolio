@@ -36,8 +36,8 @@ This website is no longer hosted...
 1. **Clone the Repository**
 
      ```shell
-     git clone https://github.com/Uteeaami/first-portfolio.git
-     git clone https://github.com/Uteeaami/first-portfolio-strapi.git
+     git clone https://github.com/espien/first-portfolio.git
+     git clone https://github.com/espien/first-portfolio-strapi.git
      ```
 
 2. **Install Dependencies**
