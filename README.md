@@ -26,7 +26,8 @@ This repository contains the source code for a portfolio website. It combines a 
 
 ## Live build
 
-Check out the live build of this portfolio website at [URL](https://uteeaami-pf.vercel.app/).
+~Check out the live build of this portfolio website at [URL](https://uteeaami-pf.vercel.app/).~
+This website is no longer hosted
 
 
 ## Setup
